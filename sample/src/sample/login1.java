@@ -1,7 +1,6 @@
 package sample;
 //jkfhgjf
-//gfhdu
-//jkfdhi
+
 //gklfdgji
 import java.awt.EventQueue;
 
